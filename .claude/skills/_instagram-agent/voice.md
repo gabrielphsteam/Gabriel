@@ -1,67 +1,54 @@
 # voice.md
 
-Copy this to `~/.claude/instagram/voice.md` and fill it in. Every skill in the
-pack reads it. Ten minutes here is the difference between scripts you shoot and
-scripts you rewrite.
-
-If you would rather not fill it in by hand, send Claude three of your own reels
-or captions and say "write my voice.md from these". That works better than
-guessing at the answers.
-
-This file matters more on Instagram than anywhere else, because you have to say
-the words out loud. A line you would never say is not a draft, it is a retake.
-
----
-
 ## Who I am
 
-- **Name:**
-- **Handle:**
-- **What I do, in one sentence:**
-- **Who I am talking to:** (be specific: "photographers charging under $2,000",
-  not "creatives")
-- **What I sell:**
+- **Name:** Gabriel de Souza Paschoa
+- **Handle:** @gabrielphsteam
+- **What I do, in one sentence:** Vendo streaming/IPTV e sou supervisor em uma empresa de telecomunicações.
+- **Who I am talking to:** famílias e clientes que buscam dicas e informações sobre TVs, streaming e computadores.
+- **What I sell:** Streaming (planos entre R$ 30 e R$ 50).
 
 ## What I sound like
 
-- **Three of my own reels or captions that sound most like me:** (paste them)
-- **On camera I am:** (fast and loud / dry / calm / funny / deadpan)
-- **Words I actually use:**
-- **Words I would never say out loud:**
-- **Do I swear:** (yes / mild / no)
-- **Emoji in captions:** (never / one, rarely / freely)
-- **Face on camera:** (always / sometimes / faceless)
-- **Voiceover or to-camera:**
-- **Pace:** (words per minute, if you have timed yourself reading a script.
-  `beats.py --wpm` uses this. Most people are between 150 and 200.)
+- **On camera I am:** direto, calmo, conversa de quem fala com um amigo. Sobe o tom e fica firme quando o assunto é opinião forte.
+- **Words I actually use:** "cara", "entendeu?", "tá?", "né", "pessoal", "aí assim, conclusão", "porrada", "tá lá", "vamos nessa, mais um dia".
+- **Words I would never say out loud:** a sigla "IPTV" (falo "streaming"); palavrões.
+- **Do I swear:** no. Evito palavrões (gírias leves como "porrada" escapam).
+- **Emoji in captions:** ?
+- **Face on camera:** always (rosto em close, vertical, câmera na mão, em casa)
+- **Voiceover or to-camera:** to-camera, com legenda automática grande na parte de baixo da tela.
+- **Pace:** ? (medir lendo um roteiro em voz alta)
+
+## Formatos que apareceram
+
+1. **Oferta com preço no título:** título amarelo fixo no topo ("Sua TV vira Smart TV por menos de 150 reais"), depois explicação de custo-benefício.
+2. **Vlog do dia:** rádio, rotina, conclusão curta, fecha com "Vamos nessa, mais um dia."
+3. **Opinião forte:** posição firme, sem suavizar.
+
+## Fechamentos que ele usa
+
+- "Um beijo, pessoal."
+- "Vamos nessa, mais um dia."
 
 ## My positions
 
-Three to five things I believe that some of my audience does not. These are
-where the good reels come from.
-
-1.
-2.
-3.
+1. Quem abusa de mulher tem que ser punido com rigor e não merece segunda chance. (visto no reel 3; confirmar se quer que vire linha editorial)
+2. Smart TV não precisa custar caro; dá para transformar a TV que já existe. (reel 1)
 
 ## Off limits
 
-- **Topics I do not post about:**
-- **Clients, numbers or names I cannot say publicly:**
-- **Claims I am not allowed to make:** (regulated industry, employer policy, NDA)
+- **Topics I do not post about:** ?
+- **Words I do not use:** "IPTV" e palavrões.
+- **Clients, numbers or names I cannot say publicly:** ?
+- **Claims I am not allowed to make:** ?
 
 ## Proof I can use
 
-Real numbers, outcomes and stories I am happy to put my name on. The skills will
-never invent one, so if this section is empty, every draft comes back with
-`{{your number}}` in it.
-
--
--
--
+- "Smart TV por menos de R$ 150" (reel 1)
+- Planos de R$ 30 a R$ 50.
 
 ## The ask
 
-- **My keyword CTA, if I use one:** (one word, sayable, no spaces)
-- **What the keyword sends them:**
-- **Where my link goes:**
+- **My keyword CTA, if I use one:** peço para comentar no reel (sem palavra-chave fixa).
+- **What the keyword sends them:** link da bio, depois conversa no WhatsApp corporativo.
+- **Where my link goes:** WhatsApp corporativo.

@@ -1,0 +1,1 @@
+{ "name": "prompt-master", "version": "0.1.0", "description": "Reescreve seu prompt antes de enviar e adiciona um botão Prompt Master acima do campo de texto.", "license": "MIT", "types": "./types/index.d.ts" }
